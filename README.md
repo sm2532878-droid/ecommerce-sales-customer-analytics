@@ -101,3 +101,17 @@ DAX Measures
 Interactive Dashboard
         ↓
 Business Insights
+
+## 📊 Dashboard Preview
+
+### 1. Executive Sales
+
+![Executive Sales Dashboard](executive-sales.png)
+
+### 2. Customer Analytics
+
+![Customer Analytics Dashboard](customer-analytics.png)
+
+### 3. Product & Business Analysis
+
+![Product & Business Analysis Dashboard](product-business-analysis.png)
