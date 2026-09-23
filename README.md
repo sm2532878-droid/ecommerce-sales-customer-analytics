@@ -102,6 +102,7 @@ Interactive Dashboard
         ↓
 Business Insights
 
+```
 ## 📊 Dashboard Preview
 
 ### 1. Executive Sales
@@ -115,3 +116,4 @@ Business Insights
 ### 3. Product & Business Analysis
 
 ![Product & Business Analysis Dashboard](product-business-analysis.png)
+
